@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+My name is Sullivan Clarke and I am currently an undegraduate computer science student at the University of Tennessee Knoxville. I am very interested in all things computer science, especially artificial intelligence and cybersecurity, which are two areas I seek to specialize in during my studies at UTK. I am relatively new to coding but currently working on a few small personal projects that I hope to publish on here soon!! Thanks for stopping by😁😁😁
+
+📫 - How to reach me: 
+- Personal email: sullivanmclarke06@gmail.com
+- School email: sclarke9@vols.utk.edu
+- [My LinkedIn](www.linkedin.com/in/sullivan-clarke-aa0147342) 
+
 
 <!--
 **sullivan-clarke/sullivan-clarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
